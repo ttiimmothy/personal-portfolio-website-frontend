@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "animejs",
+    "couldn",
+    "drei",
+    "ecosa",
+    "fluentui",
+    "frameloop",
+    "HKUST",
+    "meinhardt",
+    "nestjs",
+    "nextjs",
+    "nextlint",
+    "Nuxt",
+    "openrice",
+    "reactbootstrap",
+    "reactrouter",
+    "storeforce",
+    "tailwindcss",
+    "Tecky",
+    "tsbuildinfo",
+    "vercel"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
